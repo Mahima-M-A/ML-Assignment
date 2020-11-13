@@ -44,7 +44,7 @@ def splitData():
         trainFeatures.append(rows[i][:-1]) #the list of feature values of train data
 
     #remainder(30%) of the data is used as test data 
-    for i in range(int(0.3 * len(rows))):
+    for i in range(int(0.7 * len(rows)), len(rows)):
         testData.append(rows[i])
         testTarget.append(rows[i][-1]) #the output column values of test data
         testFeatures.append(rows[i][:-1]) #the list of feature values of test data
