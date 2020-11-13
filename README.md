@@ -5,9 +5,9 @@ This is a repository containing the codes written as a part of an assignment in 
 ## Algorithms worked with
 
 <ul>
-<li> Multi Layer Perceptron </li>
+<li> Multi Layer Perceptron(MLP) </li>
 <li> Support Vector Machine(SVM) </li>
-<li> K Nearest Neighbour(KNN) </li>
+<li> K-Nearest Neighbour(KNN) </li>
 </ul>
 
 ## Team Members
